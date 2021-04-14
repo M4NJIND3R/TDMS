@@ -1,0 +1,16 @@
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\bin\Debug\TDMS.exe.config
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\bin\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\bin\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.csprojAssemblyReference.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.Properties.Resources.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.csproj.GenerateResource.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.LoginForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.HomeForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.DatabaseForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.newCustForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.PlanForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.updateForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.DeleteForm.resources
