@@ -14,3 +14,46 @@ F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system
 F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.PlanForm.resources
 F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.updateForm.resources
 F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.DeleteForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Database1.mdf
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Database1_log.ldf
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\TDMS.exe.config
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\BouncyCastle.Crypto.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Google.Protobuf.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Compression.LZ4.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Hash.xxHash.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\MySql.Data.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Renci.SshNet.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Buffers.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Memory.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Numerics.Vectors.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Ubiety.Dns.Core.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Zstandard.Net.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Google.Protobuf.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Google.Protobuf.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Compression.LZ4.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Hash.xxHash.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\MySql.Data.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Renci.SshNet.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Buffers.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Memory.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Numerics.Vectors.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.csprojAssemblyReference.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.LoginForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.HomeForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.DatabaseForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.NewCustForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.PlanForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.UpdateForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.DeleteForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.Properties.Resources.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.csproj.GenerateResource.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.csproj.CopyComplete
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.pdb

@@ -15,7 +15,7 @@ namespace TDMS
     {
         
 
-        MySqlConnection con = new MySqlConnection();
+       
         
         public DeleteForm()
         {
@@ -26,15 +26,19 @@ namespace TDMS
         {
             //searching for database entry based on email
 
-            con.Open();
-            string searchQuery = "SELECT * FROM dataBaseName WHERE Email=" + int.Parse(emailBox.Text);
-            MySqlCommand cmd = new MySqlCommand(searchQuery, con);
-            MySqlDataReader dataRead;
-            dataRead = cmd.ExecuteReader();
+            
+            
 
             //fill out additional info
             try
             {
+
+                MySqlConnection con = new MySqlConnection();
+                con.Open();
+                string searchQuery = "SELECT * FROM dataBaseName WHERE Email=" + int.Parse(emailBox.Text);
+                MySqlCommand cmd = new MySqlCommand(searchQuery, con);
+                MySqlDataReader dataRead;
+                dataRead = cmd.ExecuteReader();
 
                 if (dataRead.Read())
                 {
@@ -56,7 +60,8 @@ namespace TDMS
             try
             {
                 //removing selected user from the database
-
+                MySqlConnection con = new MySqlConnection();
+                con.Open();
                 string deleteQuery = "DELETE FROM customer.DataBaseName WHERE Email='" + this.emailBox.Text + "';";
 
                 con.Open();

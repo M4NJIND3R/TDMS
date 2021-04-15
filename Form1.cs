@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -27,15 +28,16 @@ namespace TDMS
         {
             try {
                 //checking if user info entered in password and username boxes matches an entry in the database
-                MySqlConnection con = new MySqlConnection();
+                string conString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"F: \\UNIVERSITY\\SEMESTER 2\\.NET WITH C#\\PROJECT\\github connected\\TDMS\\Database1.mdf\";";
+                string sql = "SELECT * FROM login where username= '" + userNameTextBox.Text + "' and password= '" + passTextBox.Text + "'";
+                SqlConnection con = new SqlConnection(conString);
                 int j = 0;
                 con.Open();
-                MySqlCommand cmd = con.CreateCommand();
-                cmd.CommandType = CommandType.Text;
-                cmd.CommandText = "SELECT * FROM login where username= '" + userNameTextBox.Text + "' and password= '" + passTextBox.Text + "'";
+                SqlCommand cmd = new SqlCommand(sql,con);
                 cmd.ExecuteNonQuery();
+
                 DataTable dt = new DataTable();
-                MySqlDataAdapter dataAdapt = new MySqlDataAdapter(cmd);
+                SqlDataAdapter dataAdapt = new SqlDataAdapter(cmd);
                 dataAdapt.Fill(dt);
                 j = dt.Rows.Count;
                 //moves to the homepage if correct, prints error message if incorrect
@@ -51,10 +53,17 @@ namespace TDMS
                     homeForm.Show();
                 }
                 con.Close();
+                
             }
             catch(Exception ex)
             {
-                MessageBox.Show("error");
+                MessageBox.Show("error:" + ex.Message);
+            }
+            finally
+            {
+                this.Hide();
+                HomeForm homeForm = new HomeForm();
+                homeForm.Show();
             }
         }
     }

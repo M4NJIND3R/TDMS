@@ -9,19 +9,19 @@ namespace TDMS
 {
     class ConnectionPlan
     {
-        private string name, ipAdd;
+        private string name;
         private int data;
         private double downSpeed, upSpeed, monthlyChanrges;
+        static ConnectionPlan BASIC,STANDARD,PREMIUM;
 
         public ConnectionPlan()
         {
-            name = "NewPlan_";
+
         }
 
-        public ConnectionPlan(string name, string ipAdd, double upSpeed, double downSpeed, int data, double monthlyCharges)
+        public ConnectionPlan(string name, double upSpeed, double downSpeed, int data, double monthlyCharges)
         {
             setName(name);
-            setIpAdd(ipAdd);
             setUpSpeed(upSpeed);
             setDownSpeed(downSpeed);
             setData(data);
@@ -48,25 +48,7 @@ namespace TDMS
             }
             this.monthlyChanrges = charges;
         }
-        public void setIpAdd(string ipAdd)
-        {
-            if (!Regex.IsMatch(ipAdd, "^[0-9.]*$"))
-            {
-                throw new ArgumentException("Warning# Invalid Ip Address");
-            }
-
-            string[] ipParts = ipAdd.Split('.');
-            foreach (string part in ipParts)
-            {
-                int num = Convert.ToInt32(part);
-                if (num > 255 || num < 0 || ipParts.Length > 4 || ipParts.Length < 4)
-                {
-                    throw new ArgumentException("Warning# Ip Address should have 4 parts with 0-255 value each part");
-                }
-            }
-
-            this.ipAdd = ipAdd;
-        }
+        
         public void setUpSpeed(double upSpeed)
         {
             this.upSpeed = upSpeed;
@@ -96,10 +78,7 @@ namespace TDMS
         {
             return monthlyChanrges;
         }
-        public string getIpAdd()
-        {
-            return ipAdd;
-        }
+        
         public int getData()
         {
             return data;
@@ -120,21 +99,21 @@ namespace TDMS
 
 
 
-        public static ConnectionPlan getPlanByName(string planName, string ipAdd)
+        public static ConnectionPlan getPlanByName(string planName)
         {
             if (!planName.Equals(" ") && Regex.IsMatch(planName, "[a-zA-Z]"))
             {
                 switch (planName.ToLower())
                 {
                     case "platinum":
-                        ConnectionPlan PLATINUM = new ConnectionPlan("Platinum", ipAdd, 500, 800, 25000, 200);
-                        return PLATINUM;
+                        PREMIUM = new ConnectionPlan("PREMIUM", 500, 500, 1500, 269);
+                        return PREMIUM;
                     case "gold":
-                        ConnectionPlan GOLD = new ConnectionPlan("Gold", ipAdd, 300, 500, 5000, 100);
-                        return GOLD;
+                        STANDARD = new ConnectionPlan("STANDARD", 60, 100, 500, 169);
+                        return STANDARD;
                     case "silver":
-                        ConnectionPlan SILVER = new ConnectionPlan("Silver", ipAdd, 100, 200, 1000, 80);
-                        return SILVER;
+                        BASIC = new ConnectionPlan("BASIC", 20, 50, 500, 80);
+                        return BASIC;
                     default:
                         throw new ArgumentException("Warning# invaid plan name");
                 }

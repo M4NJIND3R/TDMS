@@ -16,7 +16,7 @@ namespace TDMS
 
 
         public Customer(string fName, string lName, string email, string strAdd1,
-            string strAdd2, string city, string province, int ctrCode, long phNum, string planType, string ipAdd)
+            string strAdd2, string city, string province, int ctrCode, long phNum)
         {
             setFirstName(fName);
             setLastName(lName);
@@ -27,11 +27,10 @@ namespace TDMS
             setProvince(province);
             setCountryCode(ctrCode);
             setPhoneNumber(phNum);
-            this.plan = ConnectionPlan.getPlanByName(planType, ipAdd);
         }
 
         public Customer(string fName, string lName, string email, string strAdd1,
-           string city, string province, int ctrCode, long phNum, string planType, string ipAdd)
+           string city, string province, int ctrCode, long phNum)
         {
             setFirstName(fName);
             setLastName(lName);
@@ -42,7 +41,6 @@ namespace TDMS
             setProvince(province);
             setCountryCode(ctrCode);
             setPhoneNumber(phNum);
-            this.plan = ConnectionPlan.getPlanByName(planType, ipAdd);
         }
 
         public void setFirstName(string firstName)
@@ -105,23 +103,39 @@ namespace TDMS
         }
         public void setCity(string city)
         {
+            if (city.Equals(""))
+            {
+                throw new ArgumentNullException("Warning# city cannot be empty");
+            }
             this.city = city;
         }
         public void setProvince(string province)
         {
+            if (province.Equals(""))
+            {
+                throw new ArgumentNullException("Warning# province cannot be empty");
+            }
             this.province = province;
         }
         public void setCountryCode(int countryCode)
         {
+            if (countryCode.Equals(null))
+            {
+                throw new ArgumentNullException("Warning# country code cannot be empty");
+            }
             this.countryCode = countryCode;
         }
         public void setPhoneNumber(long phNum)
         {
+            if (phNum.Equals(null))
+            {
+                throw new ArgumentNullException("Warning# phone number cannot be empty");
+            }
             this.phoneNumber = phNum;
         }
-        public void setConnectionPlan(string planName, string ipAdd)
+        public void setConnectionPlan(string planName)
         {
-            this.plan = ConnectionPlan.getPlanByName(planName, ipAdd);
+            this.plan = ConnectionPlan.getPlanByName(planName);
         }
 
 

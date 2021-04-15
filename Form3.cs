@@ -33,7 +33,7 @@ namespace TDMS
             }
             catch(Exception ex)
             {
-                MessageBox.Show("error");
+                MessageBox.Show("error: " + ex.Message);
             }
 
             

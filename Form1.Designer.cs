@@ -134,6 +134,7 @@ namespace TDMS
             this.invalidUserLabel.Size = new System.Drawing.Size(216, 24);
             this.invalidUserLabel.TabIndex = 6;
             this.invalidUserLabel.Text = "Invalid user or password";
+            this.invalidUserLabel.Visible = false;
             // 
             // LoginForm
             // 
