@@ -17,8 +17,7 @@ namespace TDMS
 
         //conecting to customer database
 
-        MySqlConnection con = new MySqlConnection();
-        int j;
+        
         public LoginForm()
         {
             InitializeComponent();
@@ -28,8 +27,8 @@ namespace TDMS
         {
             try {
                 //checking if user info entered in password and username boxes matches an entry in the database
-
-                j = 0;
+                MySqlConnection con = new MySqlConnection();
+                int j = 0;
                 con.Open();
                 MySqlCommand cmd = con.CreateCommand();
                 cmd.CommandType = CommandType.Text;
@@ -38,8 +37,7 @@ namespace TDMS
                 DataTable dt = new DataTable();
                 MySqlDataAdapter dataAdapt = new MySqlDataAdapter(cmd);
                 dataAdapt.Fill(dt);
-                j = Convert.ToInt32(dt.Rows.Count.ToString());
-
+                j = dt.Rows.Count;
                 //moves to the homepage if correct, prints error message if incorrect
 
                 if (j == 0)
