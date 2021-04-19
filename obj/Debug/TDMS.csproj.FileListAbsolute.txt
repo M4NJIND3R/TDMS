@@ -1,0 +1,231 @@
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\bin\Debug\TDMS.exe.config
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\bin\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\bin\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.csprojAssemblyReference.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.Properties.Resources.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.csproj.GenerateResource.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.LoginForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.HomeForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.DatabaseForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.newCustForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.PlanForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.updateForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\Telecom Database management system\TDMS\obj\Debug\TDMS.DeleteForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Database1.mdf
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Database1_log.ldf
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\TDMS.exe.config
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\BouncyCastle.Crypto.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Google.Protobuf.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Compression.LZ4.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Hash.xxHash.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\MySql.Data.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Renci.SshNet.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Buffers.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Memory.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Numerics.Vectors.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Ubiety.Dns.Core.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Zstandard.Net.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Google.Protobuf.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Google.Protobuf.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Compression.LZ4.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\K4os.Hash.xxHash.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\MySql.Data.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\Renci.SshNet.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Buffers.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Memory.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Numerics.Vectors.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.csprojAssemblyReference.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.LoginForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.HomeForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.DatabaseForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.NewCustForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.PlanForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.UpdateForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.DeleteForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.Properties.Resources.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.csproj.GenerateResource.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.csproj.CopyComplete
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\github connected\TDMS\obj\Debug\TDMS.pdb
+C:\Users\user\source\repos\TDMS-main\bin\Debug\Database1.mdf
+C:\Users\user\source\repos\TDMS-main\bin\Debug\Database1_log.ldf
+C:\Users\user\source\repos\TDMS-main\bin\Debug\TDMS.exe.config
+C:\Users\user\source\repos\TDMS-main\bin\Debug\TDMS.exe
+C:\Users\user\source\repos\TDMS-main\bin\Debug\TDMS.pdb
+C:\Users\user\source\repos\TDMS-main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\Renci.SshNet.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\Zstandard.Net.dll
+C:\Users\user\source\repos\TDMS-main\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\source\repos\TDMS-main\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\TDMS-main\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\source\repos\TDMS-main\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\source\repos\TDMS-main\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\source\repos\TDMS-main\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\TDMS-main\bin\Debug\Renci.SshNet.xml
+C:\Users\user\source\repos\TDMS-main\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\TDMS-main\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\TDMS-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\TDMS-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.LoginForm.resources
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.HomeForm.resources
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.DatabaseForm.resources
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.NewCustForm.resources
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.PlanForm.resources
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.UpdateForm.resources
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.DeleteForm.resources
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.Properties.Resources.resources
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.csproj.CopyComplete
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.exe
+C:\Users\user\source\repos\TDMS-main\obj\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\Database1.mdf
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\Database1_log.ldf
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\TDMS.exe.config
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\BouncyCastle.Crypto.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\Google.Protobuf.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\K4os.Compression.LZ4.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\K4os.Hash.xxHash.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\MySql.Data.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\Renci.SshNet.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\System.Buffers.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\System.Memory.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\System.Numerics.Vectors.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\Ubiety.Dns.Core.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\Zstandard.Net.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\Google.Protobuf.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\Google.Protobuf.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\K4os.Compression.LZ4.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\K4os.Hash.xxHash.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\MySql.Data.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\Renci.SshNet.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\System.Buffers.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\System.Memory.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\System.Numerics.Vectors.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.csprojAssemblyReference.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.LoginForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.HomeForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.DatabaseForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.NewCustForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.PlanForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.UpdateForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.DeleteForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.Properties.Resources.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.csproj.GenerateResource.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.csproj.CopyComplete
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\testing jon\TDMS-jon_penman\obj\Debug\TDMS.pdb
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\Database1.mdf
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\Database1_log.ldf
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\TDMS.exe.config
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\TDMS.exe
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\TDMS.pdb
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\Renci.SshNet.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\Zstandard.Net.dll
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\Renci.SshNet.xml
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\TDMS-latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.LoginForm.resources
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.HomeForm.resources
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.DatabaseForm.resources
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.NewCustForm.resources
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.PlanForm.resources
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.UpdateForm.resources
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.DeleteForm.resources
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.Properties.Resources.resources
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.csproj.CopyComplete
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.exe
+C:\Users\user\source\repos\TDMS-latest\obj\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\Database1.mdf
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\Database1_log.ldf
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\TDMS.exe.config
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\TDMS.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\BouncyCastle.Crypto.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\Google.Protobuf.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\K4os.Compression.LZ4.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\K4os.Hash.xxHash.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\MySql.Data.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\Renci.SshNet.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\System.Buffers.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\System.Memory.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\System.Numerics.Vectors.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\Ubiety.Dns.Core.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\Zstandard.Net.dll
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\Google.Protobuf.pdb
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\Google.Protobuf.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\K4os.Compression.LZ4.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\K4os.Hash.xxHash.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\MySql.Data.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\Renci.SshNet.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\System.Buffers.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\System.Memory.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\System.Numerics.Vectors.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.csprojAssemblyReference.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.LoginForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.HomeForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.DatabaseForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.NewCustForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.PlanForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.UpdateForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.DeleteForm.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.Properties.Resources.resources
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.csproj.GenerateResource.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.csproj.CoreCompileInputs.cache
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.csproj.CopyComplete
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.exe
+F:\UNIVERSITY\SEMESTER 2\.NET WITH C#\PROJECT\commented\TDMS-commented\obj\Debug\TDMS.pdb
