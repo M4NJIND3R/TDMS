@@ -1,9 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
+
+/*****************************
+ * 
+ * Author: Manjiner singh
+ * Student Number: 200455485 
+ * 
+ ***************************/
 
 namespace TDMS
 {
